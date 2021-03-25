@@ -5,10 +5,6 @@
     -Vývojové prostredie: IntelliJ IDEA 2020.3.3 (Community Edition)
     -Verzia Javy: "15" 2020-09-15
 
-### Zdroje:
-    Fotky na pozadie: https://unsplash.com/ 
-    Ninja: https://findicons.com/icon/128542/white_ninja
-    [GitHub](http://github.com)
     
 ### Systém:
     Voľné miesto na disku: 10 MB
@@ -17,18 +13,23 @@
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
 
 
-### Herný proces:
+### Zdroje:
+   Fotky na pozadie: https://unsplash.com/ 
+   Ninja: https://findicons.com/icon/128542/white_ninja
+    
 
-Menu
+## Herný proces:
+
+### Menu
 ![1](https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Menu.jpg)
 
-Neúspešný pokus
+### Neúspešný pokus
 ![2](https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Game.jpg)
 
-Zhoda
+### Zhoda
 ![3](https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Game1.jpg)
 
-Pokračovanie
+### Pokračovanie
 ![4](https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Game2.jpg)
 
 
