@@ -20,7 +20,7 @@
 
 ## Spustiteľný súbor JAR:
 https://1drv.ms/u/s!Ak0RcTsG6IcblkB0AE-OjriSEXWK?e=Mq31av
-    -vyžaduje nainštalovaný JDK na počítači
+    ###vyžaduje nainštalovaný JDK na počítači
     
 
 ## Herný proces:
