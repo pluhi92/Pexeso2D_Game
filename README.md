@@ -6,8 +6,9 @@
     -Verzia Javy: "15" 2020-09-15
 
 ### Zdroje:
-    Fotky na pozadie: https://unsplash.com/
+    Fotky na pozadie: https://unsplash.com/ 
     Ninja: https://findicons.com/icon/128542/white_ninja
+    [GitHub](http://github.com)
     
 ### Systém:
     Voľné miesto na disku: 10 MB
