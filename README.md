@@ -14,8 +14,8 @@
 
 
 ### Zdroje:
-   [Fotky na pozadie:] https://unsplash.com/ 
-   [2]Ninja: https://findicons.com/icon/128542/white_ninja
+   *Fotky na pozadie: https://unsplash.com/ 
+   *Ninja: https://findicons.com/icon/128542/white_ninja
     
 
 ## Herný proces:
