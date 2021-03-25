@@ -13,9 +13,9 @@
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
 
 
-### Zdroje:
-   *Fotky na pozadie: https://unsplash.com/ 
-   *Ninja: https://findicons.com/icon/128542/white_ninja
+## Zdroje:
+   Fotky na pozadie: https://unsplash.com/ \
+   Ninja: https://findicons.com/icon/128542/white_ninja
    
 
 ## Spustiteľný súbor JAR:
