@@ -18,10 +18,6 @@
    Ninja: https://findicons.com/icon/128542/white_ninja
    
 
-## Spustiteľný súbor JAR:
-https://1drv.ms/u/s!Ak0RcTsG6IcblkB0AE-OjriSEXWK?e=Mq31av \
-    -Vyžaduje nainštalovaný JDK na počítači
-    
 
 ## Herný proces:
 
