@@ -13,8 +13,7 @@
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
     
 ## Spustiteľný JAR:
-   https://onedrive.live.com/?id=1B87E8063B71114D%212913&cid=1B87E8063B71114D
-
+   https://1drv.ms/u/s!Ak0RcTsG6IcblmPr1NTAyOf_mtf6?e=wqxjLZ
 
 ## Zdroje:
    Fotky na pozadie: https://unsplash.com/ \
