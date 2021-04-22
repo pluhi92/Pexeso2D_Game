@@ -1,4 +1,4 @@
-# Pexeso2D_Game
+# Pexeso2D_Game 
 
 ## Finálny projekt v rámci školenia IT v kurze. 
     -Využité technológie: Java swing
@@ -11,6 +11,9 @@
     Minimálna pamäť RAM: 1 GB DDR3 (Odporúčaná 2 GB)
     Procesor:  Intel Pentium M 900 MHz (Odporúčaný Celeron M 1.60 GHz alebo novšie verzie)
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
+    
+## Spustiteľný JAR:
+    https://onedrive.live.com/?id=1B87E8063B71114D%212913&cid=1B87E8063B71114D
 
 
 ## Zdroje:
