@@ -13,7 +13,7 @@
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
     
 ## Spustiteľný JAR (min. JDK 1.8):
-   https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Pexeso2D_Game.jar
+   https://github.com/pluhi92/Pexeso2D_Game/blob/master/Pexeso2D_Game.jar
 
 ## Zdroje:
    Fotky na pozadie: https://unsplash.com/ \
