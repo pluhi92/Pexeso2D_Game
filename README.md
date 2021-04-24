@@ -12,8 +12,8 @@
     Procesor:  Intel Pentium M 900 MHz (Odporúčaný Celeron M 1.60 GHz alebo novšie verzie)
     Grafická karta: min. 500 MB (Odporúčaná 1 GB) 
     
-## Spustiteľný JAR:
-   https://1drv.ms/u/s!Ak0RcTsG6IcblmPr1NTAyOf_mtf6?e=wqxjLZ
+## Spustiteľný JAR (min. JDK 1.8):
+   https://github.com/pluhi92/Pexeso2D_Game/blob/master/src/resources/images/Pexeso2D_Game.jar
 
 ## Zdroje:
    Fotky na pozadie: https://unsplash.com/ \
